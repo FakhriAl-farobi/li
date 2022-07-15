@@ -76,7 +76,7 @@ class _CalculatorState extends State<Calculator> {
                 calcbutton('AC',Colors.grey,Colors.black),
                 calcbutton('+/-',Colors.grey,Colors.black),
                 calcbutton('%',Colors.grey,Colors.black),
-                calcbutton('/',Colors.green,Colors.white),
+                calcbutton('/',Colors.yellow,Colors.white),
               ],
             ),
             SizedBox(height: 10,),
